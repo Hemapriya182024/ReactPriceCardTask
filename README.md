@@ -1,6 +1,4 @@
-Your README content looks good overall! Just a couple of minor adjustments for clarity and formatting:
 
----
 
 # Pricing Cards App
 
@@ -43,6 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project was created as a demonstration of React component rendering and data binding.
 - Special thanks to [Boxicons](https://boxicons.com/) for providing icons used in the application.
 
----
 
-This version maintains the structure and content of your original draft while making it a bit clearer and well-organized. Feel free to use this as your README for the project!
